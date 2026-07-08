@@ -1,0 +1,10 @@
+{
+  "N_trials": 160,
+  "best_fast": 8,
+  "best_slow": 75,
+  "best_is_sharpe": 1.141,
+  "best_oos_sharpe": 0.78,
+  "expected_max_noise_sharpe": 0.92,
+  "deflated_sharpe": 0.696,
+  "is_oos_rank_corr": 0.63
+}
